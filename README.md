@@ -19,4 +19,6 @@
 
 # 스크린샷
 
-![KakaoTalk_20191001_153235342](https://user-images.githubusercontent.com/55425596/65939542-31349100-e461-11e9-889b-6feb3161a7ee.jpg)
+<div>
+<img width:"200" src="![KakaoTalk_20191001_153235342](https://user-images.githubusercontent.com/55425596/65939542-31349100-e461-11e9-889b-6feb3161a7ee.jpg)">
+</div>
