@@ -19,7 +19,7 @@
 6. 보다 편리한 메모기능
 
 
-# 스크린샷
+# 예시
 
 
 ![noname01](https://user-images.githubusercontent.com/55425596/65939765-c6d02080-e461-11e9-87f1-0fcd263da213.jpg)
