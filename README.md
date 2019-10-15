@@ -22,7 +22,6 @@
 
 # 예시
 
-
-![텀프1](https://user-images.githubusercontent.com/56016350/66816997-f872dc80-ef75-11e9-8b07-fbaa6efd93cf.jpg = 100*100)
-![텀프2](https://user-images.githubusercontent.com/56016350/66817007-fb6dcd00-ef75-11e9-9ca0-d8aa6070c416.jpg = 100*100)
+![텀프1](https://user-images.githubusercontent.com/56016350/66817799-3e7c7000-ef77-11e9-9003-9b2b4c443a4a.png)
+![텀프2](https://user-images.githubusercontent.com/56016350/66817803-3f150680-ef77-11e9-9bfd-e68045603d07.png)
 
